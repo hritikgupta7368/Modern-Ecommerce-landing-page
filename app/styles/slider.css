@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --padding-right-button-container: var(--base-padding);
+}
+
+.slide-root {
+  width: 100%;
+  padding: 0 var(--base-padding);
+}
+
+.button-container {
+  width: 100%;
+  display: flex;
+  justify-content: end;
+  gap: 15px;
+  margin-bottom: calc(var(--base-padding) * 0.3);
+}
+
+.carousel__slide {
+  height: 460px;
+  max-height: 460px;
+}
+.slideInner___2mfX9 {
+  display: flex;
+  justify-content: center;
+  max-height: 460px;
+}

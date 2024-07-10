@@ -1,0 +1,58 @@
+export const products = [
+  {
+    name: "Everdrop natural care",
+    category: "powder and hand wash",
+    qty: "100ml",
+    src: "product3.png",
+    price: "$1.00",
+  },
+  {
+    name: "Eco-friendly cleaner",
+    category: "all-purpose cleaner",
+    qty: "500ml",
+    src: "product2.png",
+    price: "$2.00",
+  },
+  {
+    name: "Organic shampoo",
+    category: "hair care",
+    qty: "250ml",
+    src: "product2.png",
+    price: "$3.00",
+  },
+  {
+    name: "Organic shampoo",
+    category: "hair care",
+    qty: "250ml",
+    src: "product2.png",
+    price: "$4.00",
+  },
+  {
+    name: "Everdrop natural care",
+    category: "powder and hand wash",
+    qty: "100ml",
+    src: "product2.png",
+    price: "$1.00",
+  },
+  {
+    name: "Eco-friendly cleaner",
+    category: "all-purpose cleaner",
+    qty: "500ml",
+    src: "product2.png",
+    price: "$2.00",
+  },
+  {
+    name: "Organic shampoo",
+    category: "hair care",
+    qty: "250ml",
+    src: "product2.png",
+    price: "$3.00",
+  },
+  {
+    name: "Organic shampoo",
+    category: "hair care",
+    qty: "250ml",
+    src: "product2.png",
+    price: "$4.00",
+  },
+];

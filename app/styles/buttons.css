@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* default large */
+.hero-button {
+  --default-primary-color: var(--primary-color-dark);
+  padding: 5px;
+  gap: 3.25rem;
+  font-size: var(--font-size-medium);
+}
+
+.hero-button.medium {
+  padding: 4px;
+  gap: 1.2rem;
+  font-size: var(--font-size-medium);
+}
+/* small */
+.hero-button.small {
+  padding: 3px;
+  gap: 1.25rem;
+  font-size: var(--font-size-small);
+}

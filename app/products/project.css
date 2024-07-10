@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url("../globals.css");
+
+.products-hero {
+  width: 100%;
+  text-align: center;
+  padding: 0% 10%;
+  padding-top: 57px;
+}
+.products-hero > p {
+  font-size: var(--font-size-medium);
+  text-transform: uppercase;
+
+  line-height: 0.9;
+}
+.products-hero > h1 {
+  margin-top: 26px;
+  font-size: var(--font-size-heading_2);
+  font-weight: -600;
+  line-height: 0.98;
+}
